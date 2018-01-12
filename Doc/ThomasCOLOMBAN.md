@@ -10,7 +10,16 @@ Nous avons défini le planning des prochains mois et nous nous sommes répartis 
 nous avons fait un diagramme fonctionnel du projet.
 
 
-* Séance du 7 Janvier 2017 
+* Séance du 12 Janvier 2017 
+
+
+Je m'occuperais donc de : - L'application smartphone
+                          - L'échange de données entre le smartphone et le robot
+                          - En collaboration avec Charly nous ferons la gestion des moteurs
+                          
+                          
+                        
+                        
 
 
 
