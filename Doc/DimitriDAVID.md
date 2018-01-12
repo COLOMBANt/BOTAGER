@@ -1,5 +1,5 @@
 
-# Cahier de suivi du projet de Thomas COLOMBAN
+# Cahier de suivi du projet de David Dimitri
 
 * Séance du 20 Décembre 2017 
 
