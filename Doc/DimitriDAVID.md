@@ -11,7 +11,7 @@ Nous avons défini le planning des prochains mois et nous nous sommes répartis 
 nous avons fait un diagramme fonctionnel du projet.
 
 
-*Vacances de Noël 
+* Vacances de Noël 
 
 J'ai recherché des solutions et voies à explorer pour reussir a positionné le robot dans l'espaces.
 
