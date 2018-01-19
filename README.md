@@ -12,7 +12,7 @@ Le robot quand à lui pourra se repérer sur le terrain grâce à 4 piquets plan
 
 * Matériel
 
-<p> - 4 modules HELTEC LoRa Bluetooth (1 pour chaque piquet)
-    - Carte Arduino
-    - Un système de sélection de graines
-    - Un smartphone</p>
+<p> - 4 modules HELTEC LoRa Bluetooth (1 pour chaque piquet)  
+    - Carte Arduino  
+    - Un système de sélection de graines  
+    - Un smartphone</p>  
