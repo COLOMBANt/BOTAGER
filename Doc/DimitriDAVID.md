@@ -17,4 +17,4 @@ J'ai recherché des solutions et voies à explorer pour reussir a positionné le
 
 * Séance du 12 Janvier 2017 
 
-Familiarisation avec les module LoRa, et élaboration du github.MA QUEUE EST PETITE OMG
+Familiarisation avec les module LoRa, et élaboration du github.
