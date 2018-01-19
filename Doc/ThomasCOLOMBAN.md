@@ -18,7 +18,7 @@ Je m'occuperais donc de : <p>- L'application smartphone
                           - L'échange de données entre le smartphone et le robot  
                           - En collaboration avec Charly nous ferons la gestion des moteurs </p>
                           
-![Image appli 1](https://www.google.fr/images/srpr/logo11w.png )
+![Image appli 1](https://www.google.fr/images/srpr/logo11w.png "google logo")
 
 ![Image appli 2](C:\Users\THOMAS\Pictures\BOTAGER\APPLI\INTERFACE_2 "image appli 2")
 
