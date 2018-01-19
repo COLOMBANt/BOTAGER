@@ -13,9 +13,9 @@ nous avons fait un diagramme fonctionnel du projet.
 * Séance du 12 Janvier 2017 
 
 
-Je m'occuperais donc de : - L'application smartphone  
+Je m'occuperais donc de : <p>- L'application smartphone  
                           - L'échange de données entre le smartphone et le robot  
-                          - En collaboration avec Charly nous ferons la gestion des moteurs  
+                          - En collaboration avec Charly nous ferons la gestion des moteurs </p>
                           
                           
                         
