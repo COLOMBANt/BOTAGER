@@ -10,7 +10,10 @@ L'utilisateur donne les instructions au robot à travers une application smartph
 
 Le robot quand à lui pourra se repérer sur le terrain grâce à 4 piquets plantés sur chaque coin pour délimiter le terrain
 
+
+
 * Matériel
+
 
 + 4 modules HELTEC LoRa Bluetooth (1 pour chaque piquet)  
 + Carte Arduino  
