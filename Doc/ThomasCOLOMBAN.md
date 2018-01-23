@@ -37,7 +37,7 @@ J'ai aussi commencé l'application sous Android Studio.
 
 * Séance du 23 Janvier 2018
 
-Présentation Orale
+Présentation Orale  
 Application sous AndroidStudio
 
 
