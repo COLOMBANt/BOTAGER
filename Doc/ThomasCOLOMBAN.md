@@ -35,6 +35,9 @@ J'ai fait ma partie PowerPoint dans la présentation du 23/01.
 J'ai aussi commencé l'application sous Android Studio.
 
 
+* Séance du 23 Janvier 2018
 
+Présentation Orale
+Application sous AndroidStudio
 
 
