@@ -26,6 +26,8 @@ Voici les premiers visuels de l'appli
 
 ![Image appli 3](https://user-images.githubusercontent.com/35371013/35154243-c8fbe162-fd29-11e7-81dc-25ec536ee70f.png)
 
+En appuyant sur le bouton "Inventaire", la slide n°3 s'affiche pour pouvoir sélectionner le type de légume/fruit que l'on souhaite. Suite au clic, retour à la slide n°1, et on le fait glisser l'icône là où on veut le placer sur le champs.
+
                         
 * Séance du 19 Janvier 2018                        
 
@@ -40,4 +42,14 @@ J'ai aussi commencé l'application sous Android Studio.
 Présentation Orale  
 Application sous AndroidStudio
 
+
+* Séance du 6 février
+
+J'ai décidé de simplifier le fonctionnement de l'application au vu de la charge de travail que cela représentait.
+
+Voici les nouveaux visuels:
+
+
+Maintenant il n'y a plus d'inventaire, on sélectionne directement le type en appuyant sur les carrés du champs.
+De base tout sera blanc, et à chaque clic change la couleur du carré pour symboliser la plante.
 
