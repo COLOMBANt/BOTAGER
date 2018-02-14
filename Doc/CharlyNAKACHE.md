@@ -36,7 +36,13 @@ J'ai donc fait des recherches pour les différents composants que j'ai besoin.
 
 * Séance du 23 Janvier 2018
 
+Nous avons fait notre présentation orale.
 Durant la semaine j'ai réfléchi à un autre système pour le déplacement de mon actionneur linéaire et de la pompe, je pensais à un
-système de courroie et poulies où le socle serait accroché. J'ai donc fait des recherches pour la courroie avant d'envoyer ça à Mr
-Masson.
+système de courroie et poulies où le socle serait accroché. J'ai donc fait des recherches pour la courroie avant d'envoyer ça
+Mr Masson.
 
+* Séance du 6 février
+
+Durant la séance, j'ai fait différents schémas pour réfléchir et visualiser mon mécanisme. De plus, j'ai fait des recherches sur
+les moteurs de la pompe à air que j'ai commandé, je me suis rendu compte que cette pompe était finalement une souffleuse 
+et non pas une pompe. Par chance, Mr Masson disposait d'une pompe (un peu plus puissante en plus) que j'ai pu récupéré.
