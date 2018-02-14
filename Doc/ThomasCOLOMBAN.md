@@ -55,5 +55,5 @@ Voici les nouveaux visuels:
 ![interface_2](https://user-images.githubusercontent.com/35371013/36198422-df307fae-1176-11e8-8025-d30a758cd4bb.png)
 
 Maintenant il n'y a plus d'inventaire, on sélectionne directement le type en appuyant sur les carrés du champs.
-De base tout sera blanc, et à chaque clic change la couleur du carré pour symboliser la plante.
+De base tout sera blanc, et à chaque clic cela change la couleur du carré pour symboliser la plante.
 
