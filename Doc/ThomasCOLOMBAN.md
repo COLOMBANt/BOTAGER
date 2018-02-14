@@ -49,6 +49,10 @@ J'ai décidé de simplifier le fonctionnement de l'application au vu de la charg
 
 Voici les nouveaux visuels:
 
+![interface_1](https://user-images.githubusercontent.com/35371013/36198415-d8ed2458-1176-11e8-9754-c1c463bed122.png)
+
+
+![interface_2](https://user-images.githubusercontent.com/35371013/36198422-df307fae-1176-11e8-8025-d30a758cd4bb.png)
 
 Maintenant il n'y a plus d'inventaire, on sélectionne directement le type en appuyant sur les carrés du champs.
 De base tout sera blanc, et à chaque clic change la couleur du carré pour symboliser la plante.
