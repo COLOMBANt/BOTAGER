@@ -38,6 +38,6 @@ Réception des modules commander, premier pas avec eux et encore rédaction du p
 Après test de mon code de trilatération, je me rend compte que la précision des mesures pouvaient mettre dans un cas où l'étude de l'intersection de 3 cercles ne comportais pas de solutions. Je suis donc à la recherche du solution alternative.
 
 
-*Séeance du 15 février 2018 :
+*Séance du 15 février 2018 :
 
 Après des recherches j'essaye de trouver une méthode utilisant la barycentre pondéré des 3 poteaux pour trouver l'emplacement du mobile. La tache la plus compliqué dans cela est de trouver des coefficients permettant de retrouvé l'emplacement dans tout les cas, je suis donc actuellment en trin d'étudier diverses solutions possibles.
