@@ -24,20 +24,20 @@ Familiarisation avec les module LoRa, et élaboration du github.
 Réalisation du modèle de notre robot sur inventor.
 Premier test des modules Heltec Lora.
 
-*Séance du 26 janvier 2018 :
+* Séance du 26 janvier 2018 :
 
 Réalisation d'une première maquette virtuelle sur AutoDesk.
 Début de la rédaction d'un code de trilatération.
 
-*Séance  du 2 février 2018 :
+* Séance  du 2 février 2018 :
 
 Réception des modules commander, premier pas avec eux et encore rédaction du programme de trilatération.
 
-*Séance du 9 février 2018 :
+* Séance du 9 février 2018 :
 
 Après test de mon code de trilatération, je me rend compte que la précision des mesures pouvaient mettre dans un cas où l'étude de l'intersection de 3 cercles ne comportais pas de solutions. Je suis donc à la recherche du solution alternative.
 
 
-*Séance du 15 février 2018 :
+* Séance du 15 février 2018 :
 
 Après des recherches j'essaye de trouver une méthode utilisant la barycentre pondéré des 3 poteaux pour trouver l'emplacement du mobile. La tache la plus compliqué dans cela est de trouver des coefficients permettant de retrouvé l'emplacement dans tout les cas, je suis donc actuellment en trin d'étudier diverses solutions possibles.
