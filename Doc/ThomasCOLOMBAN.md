@@ -67,3 +67,9 @@ Fin de la partie XML de l'application
 
 
 ![28822561_430170720770412_221739668_o](https://user-images.githubusercontent.com/35371013/37463911-efe3ecb8-2856-11e8-8d90-e533c68b748b.png)
+
+
+
+* Séance du 15 mars 
+
+Partie Bluetooth en Java
