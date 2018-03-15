@@ -57,3 +57,9 @@ Voici les nouveaux visuels:
 Maintenant il n'y a plus d'inventaire, on sélectionne directement le type en appuyant sur les carrés du champs.
 De base tout sera blanc, et à chaque clic cela change la couleur du carré pour symboliser la plante.
 
+
+* Séance du 22 février
+
+Fin de la partie XML de l'application
+
+
