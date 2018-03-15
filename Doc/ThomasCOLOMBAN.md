@@ -62,4 +62,8 @@ De base tout sera blanc, et à chaque clic cela change la couleur du carré pour
 
 Fin de la partie XML de l'application
 
+![28942654_430170724103745_731970666_o](https://user-images.githubusercontent.com/35371013/37463904-ea8963c4-2856-11e8-9314-3dac1657d4dc.png)
 
+
+
+![28822561_430170720770412_221739668_o](https://user-images.githubusercontent.com/35371013/37463911-efe3ecb8-2856-11e8-8d90-e533c68b748b.png)
