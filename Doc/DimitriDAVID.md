@@ -41,3 +41,19 @@ Après test de mon code de trilatération, je me rend compte que la précision d
 * Séance du 15 février 2018 :
 
 Après des recherches j'essaye de trouver une méthode utilisant la barycentre pondéré des 3 poteaux pour trouver l'emplacement du mobile. La tache la plus compliqué dans cela est de trouver des coefficients permettant de retrouvé l'emplacement dans tout les cas, je suis donc actuellment en trin d'étudier diverses solutions possibles.
+
+*Semaine du 22 février 2018 :
+
+Beaucoup de problème pour trouver une methode permettant la résolution sytematique du problème. Je pense négliger cette partie pour le moment, je vais pour l'instant faire seulement un solveur d'équation puis si le temps me le permet essayer de retrouver une solution a la fin. Je rencontre aussi beaucoup de probleme avec les codes, les variables numériques ont tendances à s'arrondir lors de convertion d'une façon qu'il ne devrais pas être.
+
+*Semaine du 1 Mars :
+
+Des problèmes d'interference entre les modules, les messages s'enmêle. Je cherche une solution pour s'incroniser les différents envoie de données.
+
+*Semaine du 7 Mars :
+
+Probleme regler, en utilisant des intervalles et la fonction millis. Le temps d'acquisition est certes plus long, mais cela fonctionne parfaitement. Aussi, il me semble qu'un des module presente un default, il refusent de se compiler, même si le codes est fonctionneles sur les autres modules.
+
+*Semaine du 14 mars :*
+
+Sur la proposition de monsieur Ferrero je vais integrer une variation de frequence d'envoie dans le systeme afin d'optimiser la mesure de distance. Aussi, il m'as mit a dispostion ses codes qu'il utilisent sur les même modules que moi, domage que ce soit si tard.
