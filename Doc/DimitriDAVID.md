@@ -54,6 +54,25 @@ Des problèmes d'interference entre les modules, les messages s'enmêle. Je cher
 
 Probleme regler, en utilisant des intervalles et la fonction millis. Le temps d'acquisition est certes plus long, mais cela fonctionne parfaitement. Aussi, il me semble qu'un des module presente un default, il refusent de se compiler, même si le codes est fonctionneles sur les autres modules.
 
-* Semaine du 14 mars :*
+* Semaine du 14 mars :
 
 Sur la proposition de monsieur Ferrero je vais integrer une variation de frequence d'envoie dans le systeme afin d'optimiser la mesure de distance. Aussi, il m'as mit a dispostion ses codes qu'il utilisent sur les même modules que moi, domage que ce soit si tard.
+
+*Semaine du 21 mars :
+
+ Finissions du code pour trouver la postion du robot, celui marche même avec les écart de mesures des modules bluetooth.
+ Redaction d'un code pour rassembler les données sur le robot.
+ 
+ *Semaine du 28 Mars :
+ 
+ Dessins des plans des pièces à découper ou à imprimer pour la construction de la structure du robot.
+ 
+ *Semaine du 5 Avril :
+
+  Assemblage de la structure du robot avec Charly , et teste des différents éléments mobiles (actionneur, moteur pas à pas, ...)
+  
+  *Semaine du 12 Avril :
+  
+  Début de rédaction du programme pour venir chercher et déposer la graine que l'utilisateur à choisit.
+ 
+ 
