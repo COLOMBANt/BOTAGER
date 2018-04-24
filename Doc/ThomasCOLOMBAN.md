@@ -77,11 +77,12 @@ Partie Bluetooth en Java
 
 * Séance du 27 mars
 
+Diaporama et présentation orale 
 
 
 * Séance du 04 avril
 
-J'ai commencé la partie de gestion des moteurs : 
+J'ai commencé la partie de gestion des moteurs :
     - Recherche de la documentation constructeur
     - Schéma de câblage de l'arduino, de la batterie et de la carte de gestion des moteurs
     
