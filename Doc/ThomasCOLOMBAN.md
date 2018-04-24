@@ -73,3 +73,22 @@ Fin de la partie XML de l'application
 * Séance du 15 mars 
 
 Partie Bluetooth en Java
+
+
+* Séance du 27 mars
+
+
+
+* Séance du 04 avril
+
+J'ai commencé la partie de gestion des moteurs : 
+    - Recherche de la documentation constructeur
+    - Schéma de câblage de l'arduino, de la batterie et de la carte de gestion des moteurs
+
+
+* Séance du 17 avril
+
+Soudure des différentes parties de la carte
+Problème avec l'alimentation de la carte L298N V3
+
+
