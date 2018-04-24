@@ -84,6 +84,8 @@ Partie Bluetooth en Java
 J'ai commencé la partie de gestion des moteurs : 
     - Recherche de la documentation constructeur
     - Schéma de câblage de l'arduino, de la batterie et de la carte de gestion des moteurs
+    
+![30849423_450469662073851_1439568072_o](https://user-images.githubusercontent.com/35371013/39211266-68f26b56-480b-11e8-8581-ee7544c25736.jpg)
 
 
 * Séance du 17 avril
