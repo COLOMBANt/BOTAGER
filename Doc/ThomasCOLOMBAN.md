@@ -95,3 +95,13 @@ Soudure des différentes parties de la carte
 Problème avec l'alimentation de la carte L298N V3
 
 
+* Séance du 02 mai
+
+Test de rotation du robot avec le programme du magnétomètre (partie de Charly Nakache)
+Le robot arrive bien à se repérer dans l'espace et à tourner jusqu'à l'angle indiqué
+
+
+* Séance du 07 mai
+
+Partie gestion des moteurs finie
+Réglage des derniers bugs sur l'application Android
