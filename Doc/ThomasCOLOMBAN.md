@@ -100,7 +100,7 @@ J'ai commencé la partie de gestion des moteurs :
 Mon travail consistait donc à faire les fonctions de base Avancer, Reculer, Rotation et Stop du robot.
 J’ai donc dû cabler ensemble les moteurs, la carte L298 V3 et une arduino Uno, et ensuite coder un programme arduino pour réaliser ces fonctions.
     
-    
+Ebauche du câblage:
 ![30849423_450469662073851_1439568072_o](https://user-images.githubusercontent.com/35371013/39211266-68f26b56-480b-11e8-8581-ee7544c25736.jpg)
 
 
@@ -112,14 +112,25 @@ J’ai tout d’abord rencontré quelques difficultés pour comprendre le foncti
 Soudure des différentes parties de la carte
 Problème avec l'alimentation de la carte L298N V3
 
+
 * Séance du 02 mai
 
+Schéma de câblage final:
+
+![cablage](https://user-images.githubusercontent.com/35371013/40678945-28257266-6382-11e8-90ee-5eb36963c260.png)
 
 Test de rotation du robot avec le programme du magnétomètre (partie de Charly Nakache)
-Le robot arrive bien à se repérer dans l'espace et à tourner jusqu'à l'angle indiqué
+Le robot arrive bien à se repérer dans l'espace(orientation) et à tourner jusqu'à l'angle indiqué
+
 
 * Séance du 07 mai
 
 
-Partie gestion des moteurs finie
 Réglage des derniers bugs sur l'application Android
+
+
+* 20 mai 
+
+Partie Bluetooth terminée
+Partie gestion des moteurs finie
+Et tout fonctionne !! 
