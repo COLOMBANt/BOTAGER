@@ -46,3 +46,44 @@ Mr Masson.
 Durant la séance, j'ai fait différents schémas pour réfléchir et visualiser mon mécanisme. De plus, j'ai fait des recherches sur
 les moteurs de la pompe à air que j'ai commandé, je me suis rendu compte que cette pompe était finalement une souffleuse 
 et non pas une pompe. Par chance, Mr Masson disposait d'une pompe (un peu plus puissante en plus) que j'ai pu récupéré.
+
+* Séance du 22 février
+
+J'ai continué les recherches  sur la pompe et l'utilisation de cette dernière avec le uln2803.
+
+* Séance du 15 mars 
+
+Modélisation rapide en 3d du robot.
+Mr. Masson nous donne un moteur pas à pas.
+Problème avec actionneur linéaire, erreur dans les dimensions.
+Recherches sur le type de batterie nécessaire et la capacité.
+
+* Séance du 27 mars
+
+Diaporama et présentation orale.
+Mr. Masson nous donne une batterie.
+
+* Séance du 04 avril
+
+En attente de l'actionneur j'ai aidé dimitri pour des recherches pendant le cours.
+Recherches sur le fonctionnement de la batterie.
+Recherches sur le moteur pas à pas et pont en H.
+
+* Séance du 17 avril
+
+Sofab :
+on a démonté et remonté le robot en y ajoutant la structure nécessaire (bois).
+Impression de pièces 3D pour les graines et les rails (pour le déplacement de l'actionneur)
+
+* Séance du 02 mai
+
+Modélisation d'un système 3d permettant de fixer l'actionneur.
+
+* Séance du 07 mai
+
+Problème concernant la pièce pour fixer l'actionneur, l'imprimante 3d a du mal avec les courbes et arrondis.
+Plus tard, problèmes de couple avec le moteur pas à pas, il n'y a pas assez de puissance.
+
+
+
+
