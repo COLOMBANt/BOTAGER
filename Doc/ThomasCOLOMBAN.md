@@ -94,8 +94,8 @@ Diaporama et présentation orale
 * Séance du 04 avril
 
 J'ai commencé la partie de gestion des moteurs :
-    - Recherche de la documentation constructeur
-    - Schéma de câblage de l'arduino, de la batterie et de la carte de gestion des moteurs
+- Recherche de la documentation constructeur  
+- Schéma de câblage de l'arduino, de la batterie et de la carte de gestion des moteurs  
     
 Mon travail consistait donc à faire les fonctions de base Avancer, Reculer, Rotation et Stop du robot.
 J’ai donc dû cabler ensemble les moteurs, la carte L298 V3 et une arduino Uno, et ensuite coder un programme arduino pour réaliser ces fonctions.
@@ -131,6 +131,6 @@ Réglage des derniers bugs sur l'application Android
 
 * 20 mai 
 
-Partie Bluetooth terminée
-Partie gestion des moteurs finie
-Et tout fonctionne !! 
+Partie Bluetooth terminée  
+Partie gestion des moteurs finie  
+Et tout fonctionne !!   
