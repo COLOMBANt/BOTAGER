@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Ce programme XML affiche le bouton Bluetooth
+Une fois que l'on clique dessus une ListView apparait avec tous les périphériques disponibles pour se connecter au robot
+-->
+
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.thomas.botager.DeviceList">
+
+    <Button
+        android:id="@+id/Y"
+        android:layout_width="45dp"
+        android:layout_height="wrap_content"
+        android:text="Y" />
+
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="368dp"
+        android:layout_height="231dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="64dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</android.support.constraint.ConstraintLayout>
