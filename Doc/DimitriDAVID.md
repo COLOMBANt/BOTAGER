@@ -74,5 +74,34 @@ Sur la proposition de monsieur Ferrero je vais integrer une variation de frequen
   * Semaine du 12 Avril :
   
   Début de rédaction du programme pour venir chercher et déposer la graine que l'utilisateur à choisit.
+  
+  * Semaine du 20 Avril :
+  
+  Etablissement d'une fonction permettant de positionner le robot dans un certain angle choisie, par rapport au repère.
+  Utilisation du magnétomètre.
+  
+  *Semaine du 30 avril :
+  
+  Nouveau problème dans la communication entre les modules LoRa,source du probleme inconnue, j'ai du reprendre les codes.
+  
+  * Semaine du 1 mai :
+  
+  Redaction du programme de deplacment d'un point A à un point B.
+  
+  * Semaine du 7 mai :
+  
+  Test de déplacment du robot. Echec à cause de mesure de RSSI variant de plusisuer dizaies de décibels.
+  
+  * Semaine du 14 mai :
+  
+  idem que la semaine passé, nous n'arrivons pas à solutionner le problème.
+  
+  * Semaine du 21 mai :
+  
+  Redaction d'un programme de démonstration n'utilisant pas la localisation
+  
+  * Semaine du 28 mai :
+  
+  Compte rendu et préparation de l'oral, denière finissions, tournage de la vidéo de présentation.
  
  
