@@ -14,9 +14,16 @@ nous avons fait un diagramme fonctionnel du projet.
 * Séance du 12 Janvier 2018 
 
 
-Je m'occuperais donc de : <p>- L'application smartphone  
-                          - L'échange de données entre le smartphone et le robot  
-                          - En collaboration avec Charly nous ferons la gestion des moteurs </p>
+Dans le cadre du projet, je me suis occupé de deux sous-parties :
+-	L’application smartphone sous Android qui permet à l’utilisateur de choisir le type de graine à planter, et la disposition des graines sur le champ. 
+-	La gestion des 4 moteurs à courant continu pour faire se déplacer le robot.
+
+La plus grande partie de mon travail a été de programmer une application sous Android sur laquelle l’utilisateur peut choisir où et quoi planter comme graines et qui ensuite envoi les informations en Bluetooth à la carte Arduino du robot.
+Pour cela j’ai choisi de tout coder moi-même que ce soit le visuel de l’application ou le protocole Bluetooth.
+J’ai donc réalisé l’application avec le logiciel Android Studio qui permet de coder des applications pour Android.
+Premièrement j’ai dû suivre plusieurs tutoriels pour comprendre le fonctionnement du logiciel, qui est très puissant mais donc assez complexe à prendre en main.
+
+
 
 Voici les premiers visuels de l'appli
 
@@ -26,7 +33,9 @@ Voici les premiers visuels de l'appli
 
 ![Image appli 3](https://user-images.githubusercontent.com/35371013/35154243-c8fbe162-fd29-11e7-81dc-25ec536ee70f.png)
 
-En appuyant sur le bouton "Inventaire", la slide n°3 s'affiche pour pouvoir sélectionner le type de légume/fruit que l'on souhaite. Suite au clic, retour à la slide n°1, et on le fait glisser l'icône là où on veut le placer sur le champs.
+J’étais partis du principe que le rectangle central représentait le champ, et grâce au bouton inventaire situé en bas on ouvrait l’inventaire avec les différentes plantes (voir 3ème image).
+Ensuite en appuyant sur un icone on pourrait faire glisser la plante là où on le souhaite sur le champ.
+Il y a aussi un bouton en haut à gauche pour faire apparaitre la liste des appareils Bluetooth.
 
                         
 * Séance du 19 Janvier 2018                        
@@ -45,8 +54,8 @@ Application sous AndroidStudio
 
 * Séance du 6 février
 
-J'ai décidé de simplifier le fonctionnement de l'application au vu de la charge de travail que cela représentait.
 
+Après plusieurs semaines passées sur le logiciel j’ai décidé de simplifier certaines fonctions de l’application, à cause de leur complexité et par manque de temps, et d’en ajouter d’autres.
 Voici les nouveaux visuels:
 
 ![interface_1](https://user-images.githubusercontent.com/35371013/36198415-d8ed2458-1176-11e8-9754-c1c463bed122.png)
@@ -54,8 +63,10 @@ Voici les nouveaux visuels:
 
 ![interface_2](https://user-images.githubusercontent.com/35371013/36198422-df307fae-1176-11e8-8025-d30a758cd4bb.png)
 
-Maintenant il n'y a plus d'inventaire, on sélectionne directement le type en appuyant sur les carrés du champs.
-De base tout sera blanc, et à chaque clic cela change la couleur du carré pour symboliser la plante.
+
+Le champ où l’on va planter les graines sera modélisé par une grille de 16 boutons, car pour simplifier nous partons du principe que le champ sera divisé en 16 carreaux et il est possible de planter une graine dans chaque.
+A chaque appui sur un bouton ce dernier change de couleur, pour signifier le type de plante.
+Au départ tous les boutons sont grisés et c’est l’utilisateur qui choisis sur quoi appuyer en fonction du résultat qu’il veut. Il y a aussi un bouton Effacer (la croix en haut à gauche) qui va remettre toutes les cases grises, et un bouton Envoyer qui va récupérer la valeur associée à chaque bouton et l’envoi au robot par Bluetooth. 
 
 
 * Séance du 22 février
@@ -86,22 +97,29 @@ J'ai commencé la partie de gestion des moteurs :
     - Recherche de la documentation constructeur
     - Schéma de câblage de l'arduino, de la batterie et de la carte de gestion des moteurs
     
+Mon travail consistait donc à faire les fonctions de base Avancer, Reculer, Rotation et Stop du robot.
+J’ai donc dû cabler ensemble les moteurs, la carte L298 V3 et une arduino Uno, et ensuite coder un programme arduino pour réaliser ces fonctions.
+    
+    
 ![30849423_450469662073851_1439568072_o](https://user-images.githubusercontent.com/35371013/39211266-68f26b56-480b-11e8-8581-ee7544c25736.jpg)
 
 
 * Séance du 17 avril
 
+
+J’ai tout d’abord rencontré quelques difficultés pour comprendre le fonctionnement de la carte L298 V3. Il y a peu de documentation sur internet de cette carte car une autre carte la L298 V1 est beaucoup plus connue et remplit la même fonction avec seulement 2 entrées moteur au lieu de 4 pour la L298 V3. J’ai donc principalement raisonné par déduction en me basant sur la documentation constructeur de la L298 V1 et j’ai effectué de nombreux tests pour comprendre son fonctionnement.
+
 Soudure des différentes parties de la carte
 Problème avec l'alimentation de la carte L298N V3
 
-
 * Séance du 02 mai
+
 
 Test de rotation du robot avec le programme du magnétomètre (partie de Charly Nakache)
 Le robot arrive bien à se repérer dans l'espace et à tourner jusqu'à l'angle indiqué
 
-
 * Séance du 07 mai
+
 
 Partie gestion des moteurs finie
 Réglage des derniers bugs sur l'application Android
