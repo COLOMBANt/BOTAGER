@@ -78,10 +78,13 @@ Impression de pièces 3D pour les graines et les rails (pour le déplacement de 
 * Séance du 02 mai
 
 Modélisation d'un système 3d permettant de fixer l'actionneur.
+Sofab :
+Ajout de la courroie fixée au rail, et de pièces en bois pour fixer le moteur pas à pas, mais aussi de cales pour tendre la courroie.
 
 * Séance du 07 mai
 
-Problème concernant la pièce pour fixer l'actionneur, l'imprimante 3d a du mal avec les courbes et arrondis.
+Problèmes concernant la pièce qu'on voulait fixer au bout de l'actionneur pour y mettre le tube de la pompe à air,
+l'imprimante 3d ne peut faire un objet aussi petit et précis.
 Plus tard, problèmes de couple avec le moteur pas à pas, il n'y a pas assez de puissance.
 
 
